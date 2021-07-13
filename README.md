@@ -10,6 +10,3 @@ Este es un ejemplo reproducible y listo para probar. Para hacerlo, simplemente:
 4. Cambia el nombre de la impresora en `index.php`
 5. Visita el ejemplo en tu navegador web ingresando a http://localhost/imprimir_ticket_php (o si lo colocaste en otra carpeta la ruta puede variar)
 
-Si lo hiciste bien, tendrás algo así:
-
-![Ticket impreso con PHP usando ESC POS y librería de Mike42](https://raw.githubusercontent.com/parzibyte/imprimir_ticket_php/master/demo.jpg)
